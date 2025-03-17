@@ -4,7 +4,7 @@ Hotel Mentor design with relevant personalized information and database and GPT 
 (in persian language)
 
 
-# منتور-هوشمند-هتا
+# منتور-هوشمند-هتل
 طراحی منتور هتل با اطلاعات شخصی سازی شده و پایگاه داده مرتبط و مدل GPT. با قابلیت پاسخگویی به سوالات کاربران در سایت به صورت لحظه ای
 
 
