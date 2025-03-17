@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <title>Mentor AI</title>
+    <link rel="stylesheet" href="static/css/style.css">
+    <meta name="description" content="Mentor AI, your artificial intelligence assistant.">
+    <meta name="keywords" content="AI, Mentor, Artificial Intelligence, سوالات">
+    <meta name="author" content="Your Name">
+    <style>
+        body::before {
+            content: "سلام من منتور هوش مصنوعی هستم :)";
+            display: block;
+            font-size: 1.8em;
+            color: #fff;
+            margin-bottom: 20px;
+            font-weight: bold;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>سوالاتت رواینجا بپرس</h1>
+        <form id="question-form">
+            <input type="text" id="user-question" placeholder="سوالت رو اینجا بپرس" required>
+            <button type="submit">کلیلک</button>
+        </form>
+        
+        <div id="suggestions-container"></div>
+        
+        <div class="response-container" id="response-container">
+            <!-- پاسخ ربات اینجا نمایش داده می‌شود -->
+        </div>
+        
+        <footer>
+            <p>هتل فونیکس</p>
+        </footer>
+    </div>
+
+    <script src="static/js/script.js"></script>
+</body>
+</html>
