@@ -10,3 +10,8 @@ Hotel Mentor design with relevant personalized information and database and GPT 
 
 ![My Image](./image/mentor.PNG)
 
+
+# My-resume
+click on link below to check my resume
+
+https://rosebp85.github.io/resume/
